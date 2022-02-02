@@ -25,7 +25,7 @@ public class TC2
 		System.out.println("response is");
 		System.out.println(res.asString());
 		
-		ResponseValidation.statusCodeValidation(201, res);
+		ResponseValidation.statusCodeValidation(200, res);
 		ResponseValidation.dataValidation("karishma", res, "firstname");
 		
 	}
