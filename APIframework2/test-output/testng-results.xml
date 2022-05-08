@@ -1,47 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-30T14:07:11Z" name="Suite" finished-at="2022-01-30T14:07:14Z" duration-ms="2420">
+  <suite started-at="2022-02-21T16:38:04Z" name="Default suite" finished-at="2022-02-21T16:38:06Z" duration-ms="1999">
     <groups>
     </groups>
-    <test started-at="2022-01-30T14:07:11Z" name="Test" finished-at="2022-01-30T14:07:14Z" duration-ms="2420">
-      <class name="org.testing.TestScripts2.TC2">
-        <test-method signature="testCase2()[pri:0, instance:org.testing.TestScripts2.TC2@35aea049]" started-at="2022-01-30T09:07:13Z" name="testCase2" finished-at="2022-01-30T09:07:14Z" duration-ms="730" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase2 -->
-      </class> <!-- org.testing.TestScripts2.TC2 -->
+    <test started-at="2022-02-21T16:38:04Z" name="Default test" finished-at="2022-02-21T16:38:06Z" duration-ms="1999">
       <class name="org.testing.TestScripts2.TC1">
-        <test-method signature="testCase1()[pri:0, instance:org.testing.TestScripts2.TC1@2b91004a]" started-at="2022-01-30T09:07:11Z" name="testCase1" finished-at="2022-01-30T09:07:13Z" duration-ms="1482" status="PASS">
+        <test-method signature="testCase1()[pri:0, instance:org.testing.TestScripts2.TC1@3232a28a]" started-at="2022-02-21T06:38:04Z" name="testCase1" finished-at="2022-02-21T06:38:06Z" duration-ms="1972" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testCase1 -->
       </class> <!-- org.testing.TestScripts2.TC1 -->
-      <class name="org.testing.TestScripts2.TC4">
-        <test-method signature="testCase4()[pri:0, instance:org.testing.TestScripts2.TC4@47987356]" started-at="2022-01-30T09:07:14Z" name="testCase4" finished-at="2022-01-30T09:07:14Z" duration-ms="55" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase4 -->
-      </class> <!-- org.testing.TestScripts2.TC4 -->
-      <class name="org.testing.TestScripts2.TC3">
-        <test-method signature="testCase3()[pri:0, instance:org.testing.TestScripts2.TC3@7205765b]" started-at="2022-01-30T09:07:14Z" name="testCase3" finished-at="2022-01-30T09:07:14Z" duration-ms="33" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase3 -->
-      </class> <!-- org.testing.TestScripts2.TC3 -->
-      <class name="org.testing.TestScripts2.TC6">
-        <test-method signature="Testcase6()[pri:0, instance:org.testing.TestScripts2.TC6@6283d8b8]" started-at="2022-01-30T09:07:14Z" name="Testcase6" finished-at="2022-01-30T09:07:14Z" duration-ms="61" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- Testcase6 -->
-      </class> <!-- org.testing.TestScripts2.TC6 -->
-      <class name="org.testing.TestScripts2.TC5">
-        <test-method signature="testCase5()[pri:0, instance:org.testing.TestScripts2.TC5@22ef9844]" started-at="2022-01-30T09:07:14Z" name="testCase5" finished-at="2022-01-30T09:07:14Z" duration-ms="33" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- testCase5 -->
-      </class> <!-- org.testing.TestScripts2.TC5 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
